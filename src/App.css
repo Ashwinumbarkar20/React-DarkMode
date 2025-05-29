@@ -1,0 +1,23 @@
+.city:hover{
+background-color: #F0F0F0;
+}
+.city{
+    padding: 10px;
+    cursor: pointer;
+    margin: 0px;
+}
+.closebtn{
+    position: absolute;
+    right:10px;
+    top:50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    background-color: black;
+    padding: 5px;
+    border-radius: 50%;
+    color:white;
+    font-size: 10px;
+    cursor: pointer;
+
+    
+}
